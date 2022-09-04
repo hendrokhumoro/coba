@@ -1,0 +1,5 @@
+sudo /opt/lampp/lampp startmysql // start mysql on linux
+sudo /opt/lampp/lampp start // start xampp
+/opt/lampp$ sudo ./manager-linux-x64.run
+/opt/lampp/bin/mariadb -u root -p
+
